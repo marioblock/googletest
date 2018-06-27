@@ -1,0 +1,6 @@
+gtest-all.o
+gtest_main.a
+gtest_main.o
+sample1.o
+sample1_unittest
+sample1_unittest.o
